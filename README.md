@@ -13,5 +13,3 @@ Landing Page para apresentação de aplicativo.
 
 Acesse o site pelo link
 https://isabelledutrax.github.io/GoBag-landing-page/
-
-Isabelle Dutra
