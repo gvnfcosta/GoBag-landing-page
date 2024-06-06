@@ -11,4 +11,7 @@ Landing Page para apresentação de aplicativo.
 
 - Icones FlatIcon
 
+Acesse o site pelo link
+https://isabelledutrax.github.io/GoBag-landing-page/
+
 Isabelle Dutra
